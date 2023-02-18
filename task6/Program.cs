@@ -14,3 +14,5 @@ if (num % 2 == 0)
 
 else
     Console.WriteLine("Нет");
+
+    
